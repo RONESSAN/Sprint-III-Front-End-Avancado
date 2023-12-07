@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+table {
+  margin-top: 140px;
+  position: absolute;  
+  font-family: 'Roboto';  
+  height: 10%;
+  width: 99%;
+  font-size: 14px;
+  table-layout: fixed;
+  text-align: center; 
+  border: 1px solid black;
+}
+
+table .cabecalho {
+  background-color: rgb(229,229,229); 
+}
+
+.voltar {
+  font-family: 'Roboto';
+  font-size: 12px;
+  text-align: right;
+  cursor: pointer;
+}
+
+.mensagemSucesso {
+  text-align: center;
+  font-family: 'Roboto';
+  font-size: 28px;
+}
+
+.total span{
+  position: absolute;
+  margin-top: 50px;
+  right: 45px;
+  font-family: 'Roboto';
+  font-size: 14px; 
+  font-weight: bold; 
+}
+
+.botao button {
+  position: absolute;  
+  margin-top: 90px;
+  right: 45px;
+  width: 120px;
+  height: 35px;
+  color: white;
+  background-color: rgb(8, 151, 247);
+  cursor: pointer;
+  border: none;
+  font-size: 12px;
+}
+  

@@ -1,0 +1,41 @@
+{
+    "bottles": [
+        {
+            "id": 1,
+            "title": "Mangueira Jardim 1 X 2.0",
+            "qde": 0,
+            "price": 68.95,
+            "image":[
+                "/mang1.jpeg"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Mangueira Jardim 1 X 3.0",
+            "qde": 0,
+            "price": 75.85,
+            "image": [
+                "/mang2.jpeg"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Mangueira Jardim 2 X 1.0",
+            "qde": 0,
+            "price": 89.98,
+            "image": [
+                "/mang3.jpeg"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Mangueira Jardim 2 X 2.0",
+            "qde": 0,
+            "price": 99.82,
+            "image": [
+                "/mang4.jpeg"
+            ]
+        }
+
+    ]
+}
